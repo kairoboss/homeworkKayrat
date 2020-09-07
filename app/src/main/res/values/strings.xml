@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework Android 1</string>
+    <string name="txt_exception">Вы ввели неправильные данные</string>
+    <string name="txt_succes">Успешно!</string>
+    <string name="input_login">Введите логин</string>
+    <string name="input_password">Пароль</string>
+    <string name="txt_exception2">Вы превысили число допустимых символов</string>
+</resources>
